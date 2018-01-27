@@ -1,0 +1,17 @@
+body {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+h3 {
+    margin-top: 2rem;
+}
+
+.big {
+    font-size: 180%;
+/*    word-spacing: 3px;
+    */}
+
+.bigpad {
+    padding-top: 50px;
+}
